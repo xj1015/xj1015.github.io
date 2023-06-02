@@ -103,5 +103,5 @@ theme: stun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/xj1015/blog.github.io.git  #你的仓库地址
+  repo: https://github.com/xj1015/xj1015.github.io.git  #你的仓库地址
   branch: master  #选择的仓库分支
